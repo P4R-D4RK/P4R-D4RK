@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P4R-D4RK
-- 🌀 I’m interested in programming and web pages
+- 💻 I’m interested in programming and web pages
 - 🌱 I’m currently learning Angular, React and Python
 
 <!---
