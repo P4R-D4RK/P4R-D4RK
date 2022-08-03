@@ -4,8 +4,8 @@
 
 
 - I’m interested in programming and web pages 💻
-- I’m currently learning Angular and React 🌱
-- ...
+- Currently learning Angular and React 🌱
+- Proactive and responsible
 ___
 
 
