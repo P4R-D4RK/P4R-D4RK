@@ -14,8 +14,8 @@ ___
 ##### Programming languages
 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
-</p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="65" height="65"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="65" height="65"/> </a> <a href="https://www.java.com/es/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="65" height="65"/> </a>
+</p> 
 
 
 ____
