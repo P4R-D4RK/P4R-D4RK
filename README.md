@@ -4,7 +4,7 @@
 
 
 - I’m interested in programming and web pages 💻
-- I’m currently learning Angular, React and Python 🌱
+- I’m currently learning Angular and React 🌱
 - ...
 ___
 
