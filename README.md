@@ -1,14 +1,10 @@
-
-- 💻 I’m interested in programming and web pages
-- 🌱 I’m currently learning Angular, React and Python
-
 ### I'm Luis Polina
 #### Intelligent computing engineering in course
 
 
 
-- I’m interested in programming and web pages
-- I’m currently learning Angular, React and Python
+- I’m interested in programming and web pages 💻
+- I’m currently learning Angular, React and Python 🌱
 - ...
 ___
 
