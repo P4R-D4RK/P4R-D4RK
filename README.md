@@ -1,4 +1,4 @@
-#### I’m Luis Polina
+
 - 💻 I’m interested in programming and web pages
 - 🌱 I’m currently learning Angular, React and Python
 
@@ -7,19 +7,12 @@
 
 
 
-
-#### Actualmente me dedico a:
-
-
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
+- I’m interested in programming and web pages
+- I’m currently learning Angular, React and Python
+- ...
 ___
 
 
-
-#### Tengo conocimientos sobre:
 
 
 ##### Programming languages
@@ -53,10 +46,7 @@ _____
 
 ##### Database
 <p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
- </p>
 
 
 _____
@@ -64,19 +54,18 @@ _____
 
  ##### Others
  <p align="left"> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   </p>
 
 
-#### Algunos de mis proyectos:
+#### My Projects:
 
 
 
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
+| nombre1  | nombre2  | nombre3  |
 |---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="..." target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="..." target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="..." target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 
@@ -84,7 +73,7 @@ _____
 
 
 
-#### ¿Hablamos?☕️
+#### Contact
 
 <a href="mailto:luis.282001@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Luis Engelberth Polina Romo" height="30" width="40" />luis.282001@gmail.com</a>
 </p>
