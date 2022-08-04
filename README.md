@@ -71,5 +71,5 @@ _____
 #### Contact
 
 <a href="mailto:luis.282001@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Luis Engelberth Polina Romo" height="30" width="40" />luis.282001@gmail.com</a>
-<a href="https://www.linkedin.com/in/luis-engelberth-p-890526129/" target="blank"><img align="center src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659572345~hmac=1554849bb6419396aa888bb4f571b213" height="30" width="40" />Luis Polina</a>
+<a href="https://www.linkedin.com/in/luis-engelberth-p-890526129/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659572345~hmac=1554849bb6419396aa888bb4f571b213" height="30" width="40" />Luis Polina</a>
 </p>
