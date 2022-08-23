@@ -42,7 +42,7 @@ _____
 ##### Database
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a> 
 
 _____
 
