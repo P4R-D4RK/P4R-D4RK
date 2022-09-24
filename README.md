@@ -58,9 +58,9 @@ _____
 
 
 
-| nombre1  | nombre2  | nombre3  |
+| Tic Tac Toe  | nombre2  | nombre3  |
 |---|---|---|
-| <a href="..." target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="..." target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="..." target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://tic-tac-toe-p4r.netlify.app/" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="..." target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="..." target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 
