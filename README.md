@@ -58,7 +58,7 @@ _____
 
 
 
-| Tic Tac Toe  | nombre2  | nombre3  |
+| Tic Tac Toe  | Pokedex  | nombre3  |
 |---|---|---|
 | <a href="https://p4r-d4rk.github.io/TicTacToe/"> <img src="https://freesvg.org/img/tic-tac-toe.png" width="250" height="200"/></a> |  <a href="..." target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="..." target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
