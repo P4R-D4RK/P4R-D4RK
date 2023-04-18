@@ -1,5 +1,5 @@
 ### I'm Luis Polina
-#### Intelligent computing engineering and Full Stack Developer in course
+#### Intelligent Computing Engineering and Full Stack Developer in course
 
 
 
