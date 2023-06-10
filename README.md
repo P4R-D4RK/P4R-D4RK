@@ -61,7 +61,7 @@ _____
 
 | Tic Tac Toe  | Pokedex  | nombre3  |
 |---|---|---|
-| <a href="https://p4r-d4rk.github.io/TicTacToe/"> <img src="https://www.coolmathgames.com/sites/default/files/styles/blog_node_image/public/2022-04/The%20Many%20Names%20of%20Tic%20Tac%20Toe%20Blog%20Thumbnail.png?itok=ojvjYayl" width="250" height="200"/></a> |  <a href="..." target="_blank"> <img src="https://wallpaperaccess.com/full/45649.png" width="250" height="200"/></a> | <a href="..." target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://p4r-d4rk.github.io/TicTacToe/"> <img src="https://www.coolmathgames.com/sites/default/files/styles/blog_node_image/public/2022-04/The%20Many%20Names%20of%20Tic%20Tac%20Toe%20Blog%20Thumbnail.png?itok=ojvjYayl" width="300" height="200"/></a> |  <a href="..." target="_blank"> <img src="https://wallpaperaccess.com/full/45649.png" width="250" height="200"/></a> | <a href="..." target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 
