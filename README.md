@@ -33,7 +33,7 @@ ____
 
 ##### Backend Development
 <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a>
-<a href="https://nestjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="65" height="65"/> </a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" alt="nestjs" width="65" height="65"/> </a>
 <a href="https://flask-es.readthedocs.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="65" height="65"/> </a>
 </p>
 
