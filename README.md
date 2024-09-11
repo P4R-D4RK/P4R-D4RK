@@ -3,9 +3,12 @@
 
 
 
-- I’m interested in programming and web pages 💻
-- Currently learning React and React Native 🌱
-- Proactive and responsible
+Hello! I’m passionate about programming and building dynamic web applications. 💻
+
+	•	Currently Learning: Diving into React and React Native to enhance my skills and build interactive user interfaces. 🌱
+	•	Core Traits: Proactive, responsible, and committed to continuous learning and improvement.
+
+Feel free to explore my projects and connect with me!
 ___
 
 
